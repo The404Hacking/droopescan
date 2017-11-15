@@ -89,7 +89,7 @@ pip install droopescan
 Manual installation is as follows:
 
 <pre>
-git clone https://github.com/droope/droopescan.git
+git clone https://github.com/The404Hacking/droopescan.git
 cd droopescan
 pip install -r requirements.txt
 ./droopescan scan --help
@@ -448,3 +448,22 @@ You can run individual tests with the `-s` flag.
 # License.
 
 The project is licensed under the AGPL license.
+
+
+## Download and Clone
+> Download: [https://github.com/The404Hacking/droopescan/archive/master.zip](https://github.com/The404Hacking/droopescan/archive/master.zip)
+
+> Clone: git clone [https://github.com/The404Hacking/droopescan](https://github.com/The404Hacking/droopescan.git)
+
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
+
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
+
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
+
+[Weblog](http://the404hacking.blogsky.com) - [Email](mailto:The404Hacking.Team@Gmail.Com)
+
